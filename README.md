@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guerreroag12
-- 👀 I’m interested in Application Securtiy
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Offensive Security and studying for OSWA and CISSP.
 - 📫 How to reach me via LinkedIn or email
 
